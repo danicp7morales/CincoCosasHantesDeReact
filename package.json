@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  },
+  "name": "5cosashantesdereact",
+  "version": "1.0.0",
+  "main": "async.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module"
+}
